@@ -1,6 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on the OrgLines project<br>🌱 I’m currently learning .NET and Angular
+# Hi, I'm Kostiantyn Hnoievyi 👋 
 
+## .NET Developer | Angular | Cloud | Enterprise Web Applications 
+
+I'm a software developer currently working on **OrgLines**, where I contribute to private enterprise software projects. 
+
+Most of my professional work is in private repositories, so it is not publicly visible on GitHub. However, I work with backend, frontend, cloud, and database technologies in real-world production environments. 
+
+## About Me 
+- Currently working on **OrgLines**
+- Building skills in **.NET, ASP.NET Core, Angular, and Cloud**
+- Interested in **Clean Architecture, REST APIs, cloud services, and scalable systems**
+- Open to discussing my experience, technical challenges, and architecture decisions during interviews
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kostiantyn-hnoievyi-b96046155) 
